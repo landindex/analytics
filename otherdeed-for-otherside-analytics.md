@@ -2,7 +2,7 @@
 
 [Otherdeed for Otherside Analytics](http://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics") is a comprehensive analytics platform for Otherdeeds, the non-fungible tokens (NFTs) that grant access to the Otherside metaverse. The platform provides users with a wealth of data, including ownership history, sales prices, and floor prices. This data can be used to track the performance of Otherdeeds, identify trends, and make informed investment decisions.
 
-[![Otherdeed for Otherside Analytics](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics")](https://github.com/landindex/analytics/blob/8bd504af90b91f919ca8ab4ecddec525a9cef2d9/otherdeed%20for%20otherside%20analytics.png?raw=true "Otherdeed for Otherside Analytics")
+[![Otherdeed for Otherside Analytics](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics")](otherdeed%20for%20otherside%20analytics.png "Otherdeed for Otherside Analytics")
 
 Otherdeed for Otherside Analytics is the go-to resource for anyone who wants to stay up-to-date on the Otherdeeds market. With its comprehensive data and easy-to-use interface, the platform is a valuable tool for both investors and collectors.
 
@@ -20,7 +20,7 @@ If you're interested in Otherdeeds or the Otherside metaverse, then Otherdeed fo
 #### [Otherdeed for Otherside Whale Activity](https://landindex.io/projects/otherdeed " Otherdeed for Otherside Whale Activity")
 #### [Otherdeed for Otherside Top Performers](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Top Performers")
 #### [Otherdeed for Otherside Top Holders](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Top Holders")
-####[ Otherdeed for Otherside Top Minters](https://landindex.io/projects/otherdeed " Otherdeed for Otherside Top Minters")
+#### [Otherdeed for Otherside Top Minters](https://landindex.io/projects/otherdeed " Otherdeed for Otherside Top Minters")
 #### [Otherdeed for Otherside Top Sales](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Top Sales")
 #### [Otherdeed for Otherside Social Media analytics](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Social Media analytics")
 #### [Otherdeed for Otherside Total followers](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Total followers")
@@ -52,7 +52,7 @@ If you're interested in Otherdeeds or the Otherside metaverse, then Otherdeed fo
 #### [Otherdeed for Otherside Search Trends](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Search Trends")
 #### [Otherdeed for Otherside Top Otherdeeds Sales](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Top Otherdeeds Sales")
 #### [Otherdeed for Otherside Rarity Top 100](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Rarity Top 100")
-####[ Otherdeed for Otherside Web Performance](https://landindex.io/projects/otherdeed " Otherdeed for Otherside Web Performance")
+#### [Otherdeed for Otherside Web Performance](https://landindex.io/projects/otherdeed " Otherdeed for Otherside Web Performance")
 #### [Otherdeed for Otherside Market Cap Comparison](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Market Cap Comparison")
 #### [Otherdeed for Otherside Sales Comparison](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Sales Comparison")
 #### [Otherdeed for Otherside Ratios](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Ratios")
