@@ -12,7 +12,7 @@ Track the performance of Otherdeeds over time
 Identify trends in the Otherdeeds market
 Make informed investment decisions
 Stay up-to-date on the latest news and developments in the Otherside metaverse
-If you're interested in Otherdeeds or the Otherside metaverse, then Otherdeed for Otherside Analytics is the perfect tool for you. Sign up today and start tracking the performance of Otherdeeds today!
+If you're interested in Otherdeeds or the Otherside metaverse, then Otherdeed for Otherside Analytics is the perfect tool for you. Visit now and start tracking the performance of Otherdeeds today!
 
 ## Our Otherdeed for Otherside Analytic Tools
 
