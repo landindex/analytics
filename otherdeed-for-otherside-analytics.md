@@ -2,7 +2,7 @@
 
 [Otherdeed for Otherside Analytics](http://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics") is a comprehensive analytics platform for Otherdeeds, the non-fungible tokens (NFTs) that grant access to the Otherside metaverse. The platform provides users with a wealth of data, including ownership history, sales prices, and floor prices. This data can be used to track the performance of Otherdeeds, identify trends, and make informed investment decisions.
 
-[![Otherdeed for Otherside Analytics](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics")](/otherdeed-for-otherside-analytics.png "Otherdeed for Otherside Analytics")
+[![Otherdeed for Otherside Analytics](https://landindex.io/projects/otherdeed "Otherdeed for Otherside Analytics")](./otherdeed-for-otherside-analytics.png "Otherdeed for Otherside Analytics")
 
 Otherdeed for Otherside Analytics is the go-to resource for anyone who wants to stay up-to-date on the Otherdeeds market. With its comprehensive data and easy-to-use interface, the platform is a valuable tool for both investors and collectors.
 
