@@ -1,5 +1,5 @@
 # Otherside NFT rarity, market cap, floor price, etc.
-Discover ![Otherdeed for Otherside](https://landindex.io/projects/otherdeed) NFT trading data including volume, floor prices, top sales, and historical charts. Analyze NFT trends on landindex.
+Discover [Otherdeed for Otherside](https://landindex.io/projects/otherdeed) NFT trading data including volume, floor prices, top sales, and historical charts. Analyze NFT trends on landindex.
 
 Otherdeed for Otherside: NFT Rarity, Market Cap, Floor Price, etc.
 
