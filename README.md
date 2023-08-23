@@ -6,3 +6,5 @@ Metaverse Analytics Platform - Decentraland, The Sandbox, Otherdeed for Othersid
 
 # Metaverse FAQ
 ## [Frequently Asked Questions about Metaverse](metaverse-faq.md)
+
+[Decentraland Prognose](decentraland-prognose.html)
